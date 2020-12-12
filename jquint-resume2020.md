@@ -5,9 +5,9 @@
 An immersive leader with a demonstrated history of strategic and technical leadership in the Cloud technology professional services industry.  Over 20 years of technical and leadership experience with public cloud (AWS, Azure) DevOps, Infrastructure-as-code (IaC), web application hosting, and Linux administration.
 
 ## Contact
-> Phone:  218-368-4043
-> Email: mr.joshq@gmail.com
-> LinkedIn: <linkedin.com/in/mrjoshq>
+- Phone:  218-368-4043
+- Email: mr.joshq@gmail.com
+- LinkedIn: <linkedin.com/in/mrjoshq>
 
 ## Highlights
 -  Earned 7 AWS Certifications
