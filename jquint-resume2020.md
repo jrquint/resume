@@ -7,13 +7,20 @@ An immersive leader with a demonstrated history of strategic and technical leade
 ## Contact
 > Phone:  218-368-4043
 > Email: mr.joshq@gmail.com
-> LinkedIn: linkedin.com/in/mrjoshq
+> LinkedIn: <linkedin.com/in/mrjoshq>
 
 ## Highlights
--  Maintains 7 AWS Certifications
+-  Earned 7 AWS Certifications
 -  Built AWS-Audited MSP Practice from the ground up
--  Scored 8/10 and above in all leadership and management satisfaction KPIs
--  Built multiple successful Cloud Professional Services and Support teams
+-  Built a new Azure Professional Services Practices
+-  Built multiple successful Cloud Professional Services and Consulting teams
+
+## [Top 5 Clifton Strengths](http://www.gallup.com/cliftonstrengths/en/252137/home.aspx#utm_source=social&utm_medium=dashboard_sharing&utm_content=cliftonstrengths)
+- Individualization
+- Strategic
+- Ideation
+- Context
+- Connectedness
 
 ## Experience
 
@@ -70,5 +77,9 @@ Was the primary systems administrator for all web site and web application serve
 - AWS Certified Solutions Architect Associate
 
 ## EDUCATION
+
+### Invited MBA (mini-MBA)
+*[Abilitie Invited MBA](https://invitedmba.com/), Austin, TX 2020
+
 ### Microcomputer Support and Network Administration
 *Northwest Technical College, Bemidji, MN 1999-2001*
