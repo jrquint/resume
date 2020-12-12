@@ -7,7 +7,7 @@ An immersive leader with a demonstrated history of strategic and technical leade
 ## Contact
 - Phone:  218-368-4043
 - Email: mr.joshq@gmail.com
-- LinkedIn: <linkedin.com/in/mrjoshq>
+- LinkedIn: [linkedin.com/in/mrjoshq](https://www.linkedin.com/in/mrjoshq/)
 
 ## Highlights
 -  Earned 7 AWS Certifications
